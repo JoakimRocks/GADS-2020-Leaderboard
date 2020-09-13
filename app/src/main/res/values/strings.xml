@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">GADS 2020 Leaderboard</string>
+    <string name="successful">Submission Successful</string>
+    <string name="unsuccessful">Submission Not Successful</string>
+</resources>
